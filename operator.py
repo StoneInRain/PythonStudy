@@ -2,7 +2,7 @@
 #encoding: utf8
 #重载操作符的学习例子
 
-__author__ = 'Univer'
+__author__ = 'StoneInRain'
 
 
 class mylist(list):
