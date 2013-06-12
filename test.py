@@ -1,4 +1,4 @@
-__author__ = 'Univer'
+__author__ = 'StoneInRain'
 
 
 print 'Hello, world'
