@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding: utf8
 #面向对象编程的学习例子
-__author__ = 'Univer'
+__author__ = 'StoneInRain'
 
 import person
 
